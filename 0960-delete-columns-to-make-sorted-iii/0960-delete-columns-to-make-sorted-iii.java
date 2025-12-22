@@ -12,7 +12,7 @@ class Solution {
         }
 
         for (int j = 0; j < cols; j++) {
-            for (int i = 0; i < j; i++) {
+             for (int i = 0; i < j; i++) {
                 if (isValid(A, i, j, rows)) {
                     dp[j] = Math.max(dp[j], dp[i] + 1);
                 }
