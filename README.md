@@ -27,6 +27,7 @@
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibhavsingh771/ADSA/tree/master/3075-maximize-happiness-of-selected-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
