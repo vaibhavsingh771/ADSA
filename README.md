@@ -11,6 +11,7 @@
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibhavsingh771/ADSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Two Pointers
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
