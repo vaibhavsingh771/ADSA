@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 ## Recursion
