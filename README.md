@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,6 +40,7 @@
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -85,5 +87,14 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
