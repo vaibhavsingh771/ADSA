@@ -29,6 +29,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -92,9 +93,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
