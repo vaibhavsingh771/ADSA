@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
@@ -42,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
@@ -120,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 ## Linked List
 |  |
@@ -130,4 +134,12 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
