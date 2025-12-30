@@ -13,6 +13,7 @@
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -84,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -91,6 +93,7 @@
 | [0263-ugly-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
+| [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
+## Hash Table
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
