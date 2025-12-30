@@ -103,6 +103,7 @@
 | [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +122,9 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
