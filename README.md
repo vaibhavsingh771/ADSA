@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0263-ugly-number) |
+| [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
+| [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
