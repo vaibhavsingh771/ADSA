@@ -71,6 +71,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
