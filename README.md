@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
@@ -86,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
