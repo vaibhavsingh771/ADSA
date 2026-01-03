@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
