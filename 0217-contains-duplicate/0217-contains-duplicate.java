@@ -1,8 +1,10 @@
+import java.util.Arrays;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> seen = new HashSet<>(nums.length);
-        for (int n : nums)
-            if (!seen.add(n)) return true;
+        Arrays.sort(nums);
+        for (int i = 1; i < nums.length; i++)
+            if (nums[i] == nums[i - 1]) return true;
         return false;
     }
 }
