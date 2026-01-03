@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
@@ -98,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibhavsingh771/ADSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 ## Linked List
