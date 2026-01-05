@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/vaibhavsingh771/ADSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -72,6 +73,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vaibhavsingh771/ADSA/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
