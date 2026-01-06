@@ -90,6 +90,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -188,8 +190,13 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
