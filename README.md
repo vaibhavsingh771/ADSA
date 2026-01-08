@@ -17,6 +17,7 @@
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -63,6 +64,7 @@
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0046-permutations](https://github.com/vaibhavsingh771/ADSA/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
