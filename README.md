@@ -23,6 +23,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -161,6 +162,7 @@
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
+| [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 ## Linked List
 |  |
@@ -205,4 +207,8 @@
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
