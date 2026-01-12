@@ -25,6 +25,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibhavsingh771/ADSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -137,6 +138,7 @@
 | [0509-fibonacci-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
