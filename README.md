@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vaibhavsingh771/ADSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
