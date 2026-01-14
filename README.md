@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -195,6 +196,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -208,6 +210,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Combinatorics
@@ -219,6 +222,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Graph
