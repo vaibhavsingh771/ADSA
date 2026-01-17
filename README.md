@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavsingh771/ADSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
