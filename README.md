@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
@@ -40,6 +41,7 @@
 | [0031-next-permutation](https://github.com/vaibhavsingh771/ADSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 ## String
@@ -135,6 +137,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
