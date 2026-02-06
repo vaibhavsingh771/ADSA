@@ -29,6 +29,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/vaibhavsingh771/ADSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavsingh771/ADSA/tree/master/1200-minimum-absolute-difference) |
@@ -131,11 +132,13 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavsingh771/ADSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -255,6 +258,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavsingh771/ADSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
