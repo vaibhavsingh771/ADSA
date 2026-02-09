@@ -289,4 +289,8 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/vaibhavsingh771/ADSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
