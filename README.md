@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vaibhavsingh771/ADSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/vaibhavsingh771/ADSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
