@@ -24,6 +24,7 @@
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavsingh771/ADSA/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -112,6 +113,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -147,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
@@ -252,6 +255,7 @@
 | [0101-symmetric-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Graph
@@ -295,4 +299,8 @@
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vaibhavsingh771/ADSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/vaibhavsingh771/ADSA/tree/master/1683-invalid-tweets) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
