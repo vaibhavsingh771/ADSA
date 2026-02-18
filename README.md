@@ -299,6 +299,7 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/vaibhavsingh771/ADSA/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vaibhavsingh771/ADSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/vaibhavsingh771/ADSA/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/vaibhavsingh771/ADSA/tree/master/1251-average-selling-price) |
