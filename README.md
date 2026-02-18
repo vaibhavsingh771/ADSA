@@ -300,6 +300,7 @@
 |  |
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vaibhavsingh771/ADSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1251-average-selling-price](https://github.com/vaibhavsingh771/ADSA/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/vaibhavsingh771/ADSA/tree/master/1683-invalid-tweets) |
 ## Union-Find
 |  |
