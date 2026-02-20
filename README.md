@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/vaibhavsingh771/ADSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
@@ -72,6 +73,7 @@
 | [0045-jump-game-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/vaibhavsingh771/ADSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
