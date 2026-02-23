@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
 |  |
 | ------- |
@@ -322,4 +323,13 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Design
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Shortest Path
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
