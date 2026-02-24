@@ -87,6 +87,7 @@
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
@@ -116,6 +117,7 @@
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
@@ -259,6 +261,7 @@
 | [0113-path-sum-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -289,6 +292,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
@@ -322,6 +326,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Design
@@ -331,5 +336,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
