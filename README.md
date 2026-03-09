@@ -120,6 +120,7 @@
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vaibhavsingh771/ADSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -332,6 +333,7 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vaibhavsingh771/ADSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1514-path-with-maximum-probability](https://github.com/vaibhavsingh771/ADSA/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Design
