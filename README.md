@@ -320,6 +320,7 @@
 | [1193-monthly-transactions-i](https://github.com/vaibhavsingh771/ADSA/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/vaibhavsingh771/ADSA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/vaibhavsingh771/ADSA/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/vaibhavsingh771/ADSA/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaibhavsingh771/ADSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/vaibhavsingh771/ADSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/vaibhavsingh771/ADSA/tree/master/1693-daily-leads-and-partners) |
