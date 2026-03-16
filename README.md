@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
@@ -79,6 +80,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
