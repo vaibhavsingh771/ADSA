@@ -40,6 +40,7 @@
 | [1200-minimum-absolute-difference](https://github.com/vaibhavsingh771/ADSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/vaibhavsingh771/ADSA/tree/master/1514-path-with-maximum-probability) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavsingh771/ADSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -100,6 +101,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
+| [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 ## Backtracking
 |  |
 | ------- |
@@ -362,8 +364,10 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
