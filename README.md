@@ -72,6 +72,7 @@
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Backtracking
 |  |
 | ------- |
