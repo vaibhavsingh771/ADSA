@@ -96,6 +96,7 @@
 | [0509-fibonacci-number](https://github.com/vaibhavsingh771/ADSA/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0576-out-of-boundary-paths) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavsingh771/ADSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
