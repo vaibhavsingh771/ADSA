@@ -44,6 +44,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/vaibhavsingh771/ADSA/tree/master/1514-path-with-maximum-probability) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavsingh771/ADSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibhavsingh771/ADSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Two Pointers
@@ -104,6 +105,7 @@
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Backtracking
 |  |
@@ -159,6 +161,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavsingh771/ADSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibhavsingh771/ADSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
