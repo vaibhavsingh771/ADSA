@@ -65,6 +65,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsingh771/ADSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/vaibhavsingh771/ADSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/vaibhavsingh771/ADSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/vaibhavsingh771/ADSA/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
@@ -215,6 +217,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vaibhavsingh771/ADSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
