@@ -137,6 +137,7 @@
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
+| [0919-complete-binary-tree-inserter](https://github.com/vaibhavsingh771/ADSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/vaibhavsingh771/ADSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
@@ -253,6 +254,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0919-complete-binary-tree-inserter](https://github.com/vaibhavsingh771/ADSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -269,6 +271,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0919-complete-binary-tree-inserter](https://github.com/vaibhavsingh771/ADSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Combinatorics
@@ -362,6 +365,7 @@
 ## Design
 |  |
 | ------- |
+| [0919-complete-binary-tree-inserter](https://github.com/vaibhavsingh771/ADSA/tree/master/0919-complete-binary-tree-inserter) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vaibhavsingh771/ADSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
 |  |
