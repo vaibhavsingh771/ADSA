@@ -197,6 +197,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaibhavsingh771/ADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0390-elimination-game) |
@@ -230,6 +231,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaibhavsingh771/ADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
