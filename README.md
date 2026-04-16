@@ -42,6 +42,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-path-with-maximum-probability](https://github.com/vaibhavsingh771/ADSA/tree/master/1514-path-with-maximum-probability) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavsingh771/ADSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -215,6 +216,7 @@
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -385,4 +387,8 @@
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
