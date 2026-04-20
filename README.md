@@ -39,6 +39,7 @@
 | [1051-height-checker](https://github.com/vaibhavsingh771/ADSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavsingh771/ADSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -141,6 +142,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/vaibhavsingh771/ADSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/vaibhavsingh771/ADSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1306-jump-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavsingh771/ADSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/vaibhavsingh771/ADSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibhavsingh771/ADSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Graph
 |  |
