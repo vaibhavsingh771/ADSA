@@ -35,6 +35,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0997-find-the-town-judge](https://github.com/vaibhavsingh771/ADSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavsingh771/ADSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/vaibhavsingh771/ADSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavsingh771/ADSA/tree/master/1200-minimum-absolute-difference) |
@@ -175,6 +176,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhavsingh771/ADSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaibhavsingh771/ADSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
