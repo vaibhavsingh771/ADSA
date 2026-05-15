@@ -21,6 +21,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vaibhavsingh771/ADSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/vaibhavsingh771/ADSA/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
@@ -95,6 +96,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vaibhavsingh771/ADSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/vaibhavsingh771/ADSA/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/vaibhavsingh771/ADSA/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavsingh771/ADSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
