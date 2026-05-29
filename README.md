@@ -131,6 +131,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavsingh771/ADSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bitmask
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vaibhavsingh771/ADSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaibhavsingh771/ADSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
