@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vaibhavsingh771/ADSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhavsingh771/ADSA/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/vaibhavsingh771/ADSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0300-longest-increasing-subsequence) |
