@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/vaibhavsingh771/ADSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsingh771/ADSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/vaibhavsingh771/ADSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
@@ -376,6 +378,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/vaibhavsingh771/ADSA/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
