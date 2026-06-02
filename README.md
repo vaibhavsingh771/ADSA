@@ -27,6 +27,7 @@
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/vaibhavsingh771/ADSA/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vaibhavsingh771/ADSA/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavsingh771/ADSA/tree/master/0560-subarray-sum-equals-k) |
@@ -229,6 +230,7 @@
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhavsingh771/ADSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhavsingh771/ADSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -255,6 +257,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhavsingh771/ADSA/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
