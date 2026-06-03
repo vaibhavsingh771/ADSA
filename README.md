@@ -24,6 +24,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vaibhavsingh771/ADSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vaibhavsingh771/ADSA/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/vaibhavsingh771/ADSA/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh771/ADSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vaibhavsingh771/ADSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0494-target-sum) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/vaibhavsingh771/ADSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vaibhavsingh771/ADSA/tree/master/1200-minimum-absolute-difference) |
@@ -243,6 +245,7 @@
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vaibhavsingh771/ADSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavsingh771/ADSA/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/vaibhavsingh771/ADSA/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh771/ADSA/tree/master/0930-binary-subarrays-with-sum) |
