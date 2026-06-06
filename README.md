@@ -52,6 +52,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibhavsingh771/ADSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-path-with-maximum-probability](https://github.com/vaibhavsingh771/ADSA/tree/master/1514-path-with-maximum-probability) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibhavsingh771/ADSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavsingh771/ADSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -118,6 +119,7 @@
 | [1048-longest-string-chain](https://github.com/vaibhavsingh771/ADSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/vaibhavsingh771/ADSA/tree/master/1395-count-number-of-teams) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vaibhavsingh771/ADSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/vaibhavsingh771/ADSA/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Backtracking
