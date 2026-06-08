@@ -202,6 +202,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavsingh771/ADSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vaibhavsingh771/ADSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vaibhavsingh771/ADSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vaibhavsingh771/ADSA/tree/master/0189-rotate-array) |
@@ -218,6 +219,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavsingh771/ADSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhavsingh771/ADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vaibhavsingh771/ADSA/tree/master/0231-power-of-two) |
@@ -258,6 +260,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavsingh771/ADSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhavsingh771/ADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/vaibhavsingh771/ADSA/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhavsingh771/ADSA/tree/master/2487-remove-nodes-from-linked-list) |
