@@ -77,6 +77,7 @@
 | [0072-edit-distance](https://github.com/vaibhavsingh771/ADSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vaibhavsingh771/ADSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/vaibhavsingh771/ADSA/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/vaibhavsingh771/ADSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vaibhavsingh771/ADSA/tree/master/0394-decode-string) |
@@ -96,6 +97,7 @@
 | [0072-edit-distance](https://github.com/vaibhavsingh771/ADSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/vaibhavsingh771/ADSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/vaibhavsingh771/ADSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh771/ADSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhavsingh771/ADSA/tree/master/0198-house-robber) |
